@@ -67,6 +67,8 @@ bindsym Mod4+a focus parent
 # focus the child container
 #bindsym Mod4+d focus child
 
+# toggle border type
+bindsym Mod4+u border toggle
 ##############
 # WORKSPACES #
 ##############

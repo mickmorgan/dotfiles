@@ -1,2 +1,5 @@
 # Tell xrandr to output a reasonable resolution
 alias fixres='xrandr --output default --mode 1280x720'
+
+# Git
+alias gl='git log --graph --oneline --decorate'

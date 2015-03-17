@@ -14,5 +14,8 @@ echo ".Xdefaults symlinked to ~/.Xdefaults"
 ln -fs `pwd`/aliases/.aliases ~/.aliases
 echo ".aliases symlinked to ~/.aliases"
 
+ln -fs `pwd`/vim/.vimrc ~/.vimrc
+echo ".vimrc symlinked to ~/.vimrc"
+
 ln -fs `pwd`/zsh/.zshrc ~/.zshrc
 echo ".zshrc symlinked to ~/.zshrc"
